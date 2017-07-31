@@ -30,7 +30,7 @@ public class AboutMenu extends Menu {
 		g.setColor(Color.WHITE);
 		g.setFont(new Font("Verdana", 0, 35));
 		String[] text = {
-			" Running out of Power is a game created by Andrew Shepherd.", //
+			" Voltage Velocity is a game created by Andrew Shepherd.", //
 			" Ludum Dare is a 48 hour game development competition. This game ", //
 			" was made in under 10 hours. Everything was made by me within ", //
 			" that time.", //

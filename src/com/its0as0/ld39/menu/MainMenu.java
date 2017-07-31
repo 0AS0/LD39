@@ -59,12 +59,12 @@ public class MainMenu extends Menu {
 	public void render(Graphics g) {
 		g.setFont(new Font("Verdana", 0, 75));
 		g.setColor(Color.BLACK);
-		g.drawString("Running out of Power", 268, 203);
+		g.drawString("Voltage Velocity", 348, 203);
 		g.setFont(new Font("Verdana", 0, 20));
 		g.drawString("A game by Andrew Shepherd", 502, 252);
 		g.setColor(Color.WHITE);
 		g.setFont(new Font("Verdana", 0, 75));
-		g.drawString("Running out of Power", 265, 200);
+		g.drawString("Voltage Velocity", 345, 200);
 		g.setFont(new Font("Verdana", 0, 20));
 		g.drawString("A game by Andrew Shepherd", 500, 250);
 

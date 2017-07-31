@@ -56,7 +56,7 @@ public class Game extends Canvas implements Runnable {
 		setMinimumSize(size);
 		setMaximumSize(size);
 
-		frame = new JFrame("Running out of Power");
+		frame = new JFrame("Voltage Velocity");
 		render = new Render(width, height);
 		input = new Input();
 		level = Level.level;
